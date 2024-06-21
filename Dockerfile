@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3
 EXPOSE 8080
 EXPOSE 2112
 
